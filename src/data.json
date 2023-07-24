@@ -1,0 +1,110 @@
+[
+  {
+    "id": 0,
+    "name": "Arabica Ground Coffee",
+    "type": "Ground Coffee",
+    "img": "https://i.ibb.co/tLPXSn6/arabica.png",
+    "description": "Experience the unparalleled richness and smoothness of our Arabica Ground Coffee. Sourced from the finest Arabica beans, carefully selected from premium coffee-growing regions, our ground coffee offers a harmonious balance of flavors and a delightful aroma. Indulge in a truly exceptional cup of coffee that will awaken your senses and leave you craving for more.",
+    "products": {
+      "quantity": "230",
+      "price": "10",
+      "stock": "5"
+    }
+  },
+  {
+    "id": 1,
+    "name": "Robusta Ground Coffee",
+    "type": "Ground Coffee",
+    "img": "https://i.ibb.co/tKt8D74/robusta.png",
+    "description": "Discover the bold and robust flavors of our Robusta Ground Coffee. Sourced from high-quality Robusta beans, known for their strong and full-bodied characteristics, our ground coffee delivers a powerful and invigorating experience. Experience the intensity and depth of flavor that Robusta coffee has to offer, perfect for those who enjoy a bold and memorable cup of coffee.",
+    "products": {
+      "quantity": "300",
+      "price": "15",
+      "stock": "15"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Culi Ground Coffee",
+    "type": "Ground Coffee",
+    "img": "https://i.ibb.co/9cKrrwr/culi.png",
+    "description": "Experience the unique and distinctive flavor of our Culi Ground Coffee. Sourced from carefully selected Culi beans, known for their intense aroma and rich taste, our ground coffee offers a truly exceptional and memorable coffee experience. Indulge in the complex and bold flavors that Culi coffee brings to your cup, making every sip a moment of pure enjoyment.",
+    "products": {
+      "quantity": "670",
+      "price": "25",
+      "stock": "25"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Canyon Instant Coffee",
+    "type": "Instant Coffee",
+    "img": "https://i.ibb.co/Tqy8KyP/cayon.png",
+    "description": "Sourced from premium beans, our instant coffee delivers a rich and satisfying taste with every sip. Whether you're camping, at the office, or simply seeking a convenient brew, Canyon Instant Coffee provides the perfect balance of convenience and exceptional flavor. Embrace the adventure without compromising on quality and elevate your coffee experience with Canyon Instant Coffee.",
+    "products": {
+      "quantity": "230",
+      "price": "10",
+      "stock": "6"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Cappucino Instant Coffee",
+    "type": "Instant Coffee",
+    "img": "https://i.ibb.co/QdGbnRb/capuchino.png",
+    "description": "Enjoy the creamy indulgence of Cappuccino Instant Coffee, your instant gateway to a velvety coffee experience. Crafted with care from premium coffee beans and smooth milk powder, our Cappuccino Instant Coffee delivers a perfect blend of rich espresso and frothy goodness. Just add hot water, and you'll savor the delightful taste of a classic cappuccino right at your fingertips. Treat yourself to a moment of pure coffee bliss with Cappuccino Instant Coffee, wherever you may be.",
+    "products": {
+      "quantity": "300",
+      "price": "15",
+      "stock": "16"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Special Edition Instant Coffee",
+    "type": "Instant Coffee",
+    "img": "https://i.ibb.co/yhTL33S/special-Edition.png",
+    "description": "Carefully selected from exceptional beans, this limited edition instant coffee offers a unique and captivating flavor profile. Elevate your coffee experience with this exclusive blend that boasts remarkable taste and a memorable aroma. Indulge in the extraordinary and savor every sip of our Special Edition Instant Coffee, available for a limited time only. Don't miss this opportunity to experience coffee perfection like never before.",
+    "products": {
+      "quantity": "670",
+      "price": "25",
+      "stock": "26"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Bold and Robust Dark Roast",
+    "type": "Coffee Beans",
+    "img": "https://i.ibb.co/DDPg9NF/bold-Robust-Dark.png",
+    "description": "Unleash your taste buds with our Bold and Robust Dark Roast coffee. Sourced from the finest beans, expertly roasted to perfection, this coffee offers an intense and full-bodied flavor profile that coffee enthusiasts crave. Embrace the rich, smoky undertones and enjoy a cup that packs a powerful punch. If you seek coffee with a bold personality and a lingering finish, our Dark Roast is your perfect choice. Experience the strength of flavor and the satisfaction of a truly robust coffee that awakens your senses.",
+    "products": {
+      "quantity": "230",
+      "price": "10",
+      "stock": "4"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Smooth and Balanced Medium Roast",
+    "type": "Coffee Beans",
+    "img": "https://i.ibb.co/cYwxknr/smooth-Balanced-Medium.png",
+    "description": "Discover the perfect harmony of flavors with our Smooth and Balanced Medium Roast coffee. Carefully selected beans are expertly roasted to create a coffee that strikes a delightful balance between richness and smoothness. Savor the comforting notes of caramel and a hint of fruit, creating a cup that's both approachable and rewarding. If you seek a well-rounded coffee with a satisfying taste, our Medium Roast is your go-to choice. Elevate your coffee moments with this smooth and balanced brew that leaves a lasting impression.",
+    "products": {
+      "quantity": "300",
+      "price": "15",
+      "stock": "14"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Vibrant and Aromatic Light Roast",
+    "type": "Coffee Beans",
+    "img": "https://i.ibb.co/GdCWK2m/vibrant-Aromatic-Light.png",
+    "description": "Awaken your senses with our Vibrant and Aromatic Light Roast coffee. Handpicked from the finest coffee beans, this delicately roasted blend offers a captivating and invigorating experience. Delight in the lively acidity, floral undertones, and a burst of vibrant flavors that will leave you refreshed and energized. If you crave a coffee that's bright, lively, and filled with subtle complexities, our Light Roast is the perfect match. Embrace the enchanting aroma and taste that this brew brings to every cup, elevating your coffee ritual to new heights.",
+    "products": {
+      "quantity": "670",
+      "price": "25",
+      "stock": "24"
+    }
+  }
+]
